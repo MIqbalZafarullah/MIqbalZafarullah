@@ -30,7 +30,7 @@
 ---
 
 ### 👤 ABOUT ME
-* 🔭 I’m currently focusing on developing modern web applications and designing intuitive user interfaces.
+* 🔭 I'm currently focusing on developing modern web applications and designing intuitive user interfaces.
 * 🎨 Specializing in **UI/UX Design**, creating layouts that are clean, user-centered, and aesthetically pleasing.
 * 🌱 Continuous learner aiming to stay up-to-date with the latest web standards and practices.
 * 💬 Ask me about frontend layouts, styling systems, or Python backend integrations.
@@ -40,23 +40,18 @@
 ### 💻 TECH STACK & ARSENAL
 
 <p align="left">
-  <!-- HTML5 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HTML5-050811?style=for-the-badge&logo=html5&logoColor=00FF66&labelColor=050811" alt="html5" />
   </a>
-  <!-- CSS3 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/CSS3-050811?style=for-the-badge&logo=css3&logoColor=00FF66&labelColor=050811" alt="css3" />
   </a>
-  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-050811?style=for-the-badge&logo=javascript&logoColor=00FF66&labelColor=050811" alt="javascript" />
   </a>
-  <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-050811?style=for-the-badge&logo=python&logoColor=00FF66&labelColor=050811" alt="python" />
   </a>
-  <!-- Figma (untuk UI/UX) -->
   <a href="https://www.figma.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Figma-050811?style=for-the-badge&logo=figma&logoColor=00FF66&labelColor=050811" alt="figma" />
   </a>
@@ -65,19 +60,18 @@
 ---
 
 ### 🎨 FEATURED WORK & DESIGNS
-<!-- Tampilan portfolio grid estetik untuk menampilkan project development atau desain Figma -->
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <a href="LINK_PORTFOLIO_FIGMA_ATAU_GITHUB">
-        <img src="https://img.shields.io/badge/Project%201-E-Commerce%20App-00FF66?style=for-the-badge&labelColor=050811&color=00FF66" alt="Project 1" /><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIqbalZafarullah&repo=OpenShop-RESTful-API&theme=nord&bg_color=050811&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66&hide_border=false" alt="OpenShop Repo" width="100%" />
+      <a href="https://github.com/MIqbalZafarullah/OpenShop-RESTful-API">
+        <img src="https://img.shields.io/badge/🛒_OpenShop-RESTful_API-00FF66?style=for-the-badge&labelColor=050811" alt="OpenShop" /><br/>
+        <sub><b>Backend Django RESTful API for E-Commerce</b></sub>
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="LINK_PORTFOLIO_FIGMA_ATAU_GITHUB">
-        <img src="https://img.shields.io/badge/Design%20Portfolio-Figma%20UI%2FUX-00FF66?style=for-the-badge&labelColor=050811&color=00FF66" alt="Figma Project" /><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIqbalZafarullah&repo=another-cool-project&theme=nord&bg_color=050811&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66&hide_border=false" alt="Cool Project Repo" width="100%" />
+      <a href="https://www.figma.com">
+        <img src="https://img.shields.io/badge/🎨_Design-Portfolio-00FF66?style=for-the-badge&labelColor=050811" alt="Design Portfolio" /><br/>
+        <sub><b>UI/UX Design Projects on Figma</b></sub>
       </a>
     </td>
   </tr>
@@ -86,19 +80,8 @@
 ---
 
 ### 👾 KONTRIBUSI & AKTIVITAS (SNAKE GAME)
-<!-- Animasi Snake Game dari Kontribusi GitHub -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/MIqbalZafarullah/MIqbalZafarullah/output/github-snake-dark.svg" alt="Snake Game" />
-</p>
-
----
-
-### 🎵 CURRENTLY TUNING IN
-<!-- Dynamic Spotify Now Playing Widget -->
-<p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/run?background_color=050811&text_color=FFFFFF&icon_color=00FF66&bar_color=00FF66" alt="Spotify Now Playing" width="360" />
-  </a>
 </p>
 
 ---
@@ -108,7 +91,7 @@
   <table border="0">
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=MIqbalZafarullah&show_icons=true&bg_color=050811&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66&hide_border=false&locale=en" alt="Iqbal's GitHub Stats" height="155" />
+        <img src="https://github-readme-stats.vercel.app/api?username=MIqbalZafarullah&show_icons=true&bg_color=050811&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66&hide_border=false&locale=en&cache_seconds=1800" alt="Iqbal's GitHub Stats" height="155" />
       </td>
       <td align="center" valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIqbalZafarullah&layout=compact&bg_color=050811&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66&hide_border=false&locale=en" alt="Top Languages" height="155" />
