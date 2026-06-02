@@ -71,40 +71,6 @@ Fun fact: I turn coffee into code ☕
 
 <br/>
 
-<!-- FEATURED PROJECTS -->
-### 🎨 FEATURED WORK & DESIGNS
-
-<div align="center">
-<table border="0">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MIqbalZafarullah/OpenShop-RESTful-API">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIqbalZafarullah&repo=OpenShop-RESTful-API&bg_color=050811&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66" alt="OpenShop" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MIqbalZafarullah/Portofolio-M-Iqbal-Zafarullah">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIqbalZafarullah&repo=Portofolio-M-Iqbal-Zafarullah&bg_color=050811&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66" alt="Portfolio" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MIqbalZafarullah/KibokGO-UNIB-ShortestPath">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIqbalZafarullah&repo=KibokGO-UNIB-ShortestPath&bg_color=050811&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66" alt="KibokGO" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MIqbalZafarullah/AgriSave_Kriptografi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIqbalZafarullah&repo=AgriSave_Kriptografi&bg_color=050811&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66" alt="AgriSave" />
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
-
-<br/>
-
 <!-- SNAKE GAME -->
 ### 👾 KONTRIBUSI AKTIF (SNAKE GAME)
 
