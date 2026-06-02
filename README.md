@@ -64,14 +64,24 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/MIqbalZafarullah/OpenShop-RESTful-API">
-        <img src="https://img.shields.io/badge/🛒_OpenShop-RESTful_API-00FF66?style=for-the-badge&labelColor=050811" alt="OpenShop" /><br/>
-        <sub><b>Backend Django RESTful API for E-Commerce</b></sub>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIqbalZafarullah&repo=OpenShop-RESTful-API&bg_color=050811&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66" alt="OpenShop" width="100%" />
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://www.figma.com">
-        <img src="https://img.shields.io/badge/🎨_Design-Portfolio-00FF66?style=for-the-badge&labelColor=050811" alt="Design Portfolio" /><br/>
-        <sub><b>UI/UX Design Projects on Figma</b></sub>
+      <a href="https://github.com/MIqbalZafarullah/Portofolio-M-Iqbal-Zafarullah">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIqbalZafarullah&repo=Portofolio-M-Iqbal-Zafarullah&bg_color=050811&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66" alt="Portfolio" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/MIqbalZafarullah/KibokGO-UNIB-ShortestPath">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIqbalZafarullah&repo=KibokGO-UNIB-ShortestPath&bg_color=050811&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66" alt="KibokGO" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/MIqbalZafarullah/BiblioSys---Perpustakaan-Digital">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIqbalZafarullah&repo=BiblioSys---Perpustakaan-Digital&bg_color=050811&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&border_color=00FF66" alt="BiblioSys" width="100%" />
       </a>
     </td>
   </tr>
