@@ -5,10 +5,16 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch: # Memungkinkan jalankan manual
 
+# Izin penuh untuk read/write ke repository
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
@@ -20,7 +26,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
